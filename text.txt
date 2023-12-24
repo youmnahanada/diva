@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<HTML>
+    <head>
+        <title> DIVA BOUTIQUE </title>
+        <link rel="stylesheet" href="YOYO.css">
+    </head>
+    <body>
+      
+        <p id="test"> DIVA BOUTIQUE</p>
+        <button onclick="test()"> CLICK ME </button>
+        <script src="insert.js"></script>
+        <header class="bar">
+        <div class="img">
+            <nav class="list">
+          <ul>
+            <li><a href="#"></a> HOME </li>
+            <li><a href="#" ></a> ABOUT </li>
+            <li><a href="#"></a> CONTACT US </li>
+           </ul>
+           </nav>
+        </div>
+        </header>
+        <div class="container">
+              <img src="c:\Users\oooooo\Downloads\Illusion Long Sleeve Wedding Dresses You'll Like Wedding Dresses Guide.jpg"
+               alt=""width="200px" height="250px">
+               <br>
+            <a href="#" target="_blank" style="color:#861f55 ;"> Wedding dresses</a>
+            <br>
+          <img src="c:\Users\oooooo\Downloads\Fashion Elegant Style For Your Shining Moments Online Shopping _ stylewe.jpg"
+           alt=""width="200px" height="250px">
+           <br>
+         <a href="#" target="_blank" style="color:#861f55;"> soiree dresses </a>
+         <br>
+        <img src="c:\Users\oooooo\Downloads\Beautiful Glitter Dress With A Beautiful Sleeve _ Homecoming Dress Inspo.jpg"
+         alt=""width="200px" height="250px">
+         <br>
+         <a href="#" target="_blank" style="color:#861f55 ;"> Simple dresses </a>
+         </div>
+         <br>
+         <div class="name">
+            <p> ORDER HERE </p>
+         </div>
+        
+         <div class="form">
+        <form>
+            <div>
+                
+                <input type="text" placeholder="Your Name" >
+            </div>
+            <br>
+            <div>
+                
+                <input type="password" placeholder="password">
+            </div>
+            <br>
+            <div>
+                
+                <input type="text" placeholder="address" >
+            </div>
+            <br>
+            <div>
+                
+                <input type="text" placeholder="city" >
+            </div>
+            <br> 
+            <div>
+                
+                <input type="text" placeholder="Phone Number">
+            </div>
+            <br>
+             <input type="submit">
+        </form>
+        </div>
+           <br>
+        <div class="contact">
+            <p> CONTACT US </p>
+        </div>
+        <div class="img">
+         <br>
+         <img src="c:\Users\oooooo\Downloads\401161600_254218030992945_1687393771262043640_n.png" width="50px" height="100">
+          <a href="#" target="_blank" style="color: black;">Diva_Boutique  </a> 
+         <img src="c:\Users\oooooo\Downloads\403641445_709880304112717_6127785105711854679_n.png" width="50px" height="100">
+         <a href="#" target="_blank" style="color: black;">Diva Boutique  </a> 
+         <img src="c:\Users\oooooo\Downloads\403641445_709880304112717_6127785105711854679_n.png" width="50px" height="100">
+         <a href="#" target="_blank" style="color: black;">Diva Boutique  </a> 
+         <img src="c:\Users\oooooo\Downloads\405303047_1847477532377464_9037786764931532576_n.png" width="50px" height="100px">
+         <a href="#" target="_blank" style="color: black;"> 12345678123  </a> 
+        </div>
+
+    </body>
+
+</HTML>
